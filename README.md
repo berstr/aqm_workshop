@@ -1,6 +1,7 @@
 # Workshop: Alert Quality Management (AQM)
 
 ## New Relic Docs
+- [Alerting concepts and terms](https://docs.newrelic.com/docs/alerts-applied-intelligence/overview/#concepts-terms)
 - [Create an alert condition using New Relic](https://docs.newrelic.com/docs/tutorial-create-alerts/create-an-alert/#create-alert-nrql)
 - [Improve your stack with alerts](https://docs.newrelic.com/docs/tutorial-create-alerts/improve-with-alerts/)
 - [Manage your alert quality](https://docs.newrelic.com/docs/tutorial-create-alerts/manage-alert-quality/)
