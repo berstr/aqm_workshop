@@ -6,5 +6,7 @@
 - [Manage your alert quality](https://docs.newrelic.com/docs/tutorial-create-alerts/manage-alert-quality/)
 
 ## Dashboards
-- AQM Dashboard (Quickstart)
+- AQM Dashboard
+  - New Relic UI -> Add Data -> Dashboard Tab -> Filter:alert -> Select "Alert Quality Management" Dashboard
+  - Skip step: Setup Data Source
 - [Bernd's dashboard](https://github.com/berstr/aqm_workshop/blob/main/dashboards/README.md)
